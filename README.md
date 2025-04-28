@@ -1,4 +1,4 @@
-# StockSentiment: Financial News Sentiment Analysis for Stock Insights
+# StockSentimentAI: Financial News Sentiment Analysis for Stock Insights
 
 **StockSentimentAI** is a financial news analytics project designed to predict the sentiment of stock headlines and assess how well different machine learning and deep learning models can classify market sentiment. By combining traditional methods like TF-IDF with SVMs and cutting-edge deep learning models like BiLSTM, BERT, and FinBERT, this project evaluates which approaches best uncover the emotional tone behind stock market news.
 
